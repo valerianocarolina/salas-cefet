@@ -1,5 +1,8 @@
 # 🏫 Salas Livres — CEFET Timóteo
 
+<img width="1919" height="1089" alt="Captura de tela 2026-04-09 004949" src="https://github.com/user-attachments/assets/14ddfa30-fe3f-4aa2-8bf3-96fe7e16d9ae" />
+
+
 Aplicação web para consulta de salas disponíveis em tempo real no CEFET-MG (Campus Timóteo), baseada na grade horária oficial da instituição.
 
 ---
