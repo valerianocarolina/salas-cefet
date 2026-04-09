@@ -63,6 +63,7 @@
     align-items: flex-start;
     justify-content: center;
     width: 100%;
+    min-width: 0;
 }
 
 .formGroup > label {
@@ -76,6 +77,11 @@
 .formGroup > select,
 .formGroup > input {
     width: 100%;
+    inline-size: 100%;
+    max-width: 100%;
+    min-width: 0;
+    display: block;
+    box-sizing: border-box;
     padding: 10px;
     border-radius: 8px;
     border: #dee3ed 1px solid;
@@ -97,6 +103,12 @@
 .formGroup > input[type="time"]::-webkit-calendar-picker-indicator {
     display: none;
     -webkit-appearance: none;
+}
+
+.formGroup > input[type="time"] {
+    -webkit-appearance: none;
+    appearance: none;
+    min-inline-size: 0;
 }
 
 .formGroup > select:focus,
@@ -174,6 +186,7 @@
         min-width: unset;
         margin-top: 20px;
         padding: 16px;
+        overflow-x: hidden;
     }
 
     .resultsSection {
