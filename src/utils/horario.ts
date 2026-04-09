@@ -36,3 +36,22 @@ export function getHorarioAtual() {
 
   return null;
 }
+
+export function horaParaHorario(hora: string): string | null {
+  const [h, m] = hora.split(":").map(Number);
+  const minutos = h * 60 + m;
+
+  for (const horario of horarios) {
+    const [hi, mi] = horario.inicio.split(":").map(Number);
+    const [hf, mf] = horario.fim.split(":").map(Number);
+
+    const inicio = hi * 60 + mi;
+    const fim = hf * 60 + mf;
+
+    if (minutos >= inicio && minutos < fim) {
+      return horario.codigo;
+    }
+  }
+
+  return null;
+}

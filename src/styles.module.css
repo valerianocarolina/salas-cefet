@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.appContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: #f5f7fa;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.header {
+    background-color: #ffffff;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 0;
+    border-bottom: #dee3ed 1px solid;
+}
+
+.header > h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    color: #222944;
+    margin-bottom: 10px;
+}
+
+.header > p {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #6c7493;
+}
+
+.formSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    min-width: 300px;
+    background-color: #ffffff;
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 8px;
+    border: #dee3ed 1px solid;
+    gap: 15px;
+}
+
+.formGroup {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    width: 100%;
+}
+
+.formGroup > label {
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: #222944;
+    margin-bottom: 5px;
+}
+
+.formGroup > select,
+.formGroup > input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    border: #dee3ed 1px solid;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #222944;
+    background-color: #f5f7fa;
+}
+
+.formGroup > select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+
+    background-image: none; 
+}
+
+.formGroup > input[type="time"]::-webkit-calendar-picker-indicator {
+    display: none;
+    -webkit-appearance: none;
+}
+
+.formGroup > select:focus,
+.formGroup > input:focus {
+    outline: none;
+    border-color: #6c7493;
+    background-color: #f5f7fa;
+}
+
+.searchButton {
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    background-color: #3b4778;
+    color: #ffffff;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.searchButton:hover {
+    background-color: #47558f;
+}
+
+.resultsSection {
+    width: 60%;
+    min-width: 300px;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.noResults {
+    border: #d9534f 1px solid;
+    width: 100%;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #fff3f3;
+    color: #d9534f;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.roomsGrid {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.footer {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: auto;
+    padding: 20px 0;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #6c7493;
+    border-top: #dee3ed 1px solid;
+}
+
+@media (max-width: 600px) {
+    .formSection {
+        width: 100%;
+        min-width: unset;
+        margin-top: 20px;
+        padding: 16px;
+    }
+
+    .resultsSection {
+        width: 100%;
+        min-width: unset;
+        margin-top: 20px;
+    }
+
+    .header {
+        padding: 20px 10px;
+        text-align: center;
+    }
+
+    .header > h1 {
+        font-size: 20px;
+    }
+
+    .header > p {
+        font-size: 14px;
+    }
+
+    .searchButton {
+        padding: 12px;
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 900px) {
+    .formSection {
+        width: 85%;
+    }
+
+    .resultsSection {
+        width: 85%;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 900px) {
+    .roomsGrid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}
