@@ -17,15 +17,46 @@ function App() {
     return `${String(now.getHours()).padStart(2, "0")}:${String(now.getMinutes()).padStart(2, "0")}`;
   });
   const [rooms, setRooms] = useState<Room[] | null>(null);
+  const [specialMessage, setSpecialMessage] = useState("");
   const [loading, setLoading] = useState(false);
+
+  const toMinutes = (hora: string) => {
+    const [h, m] = hora.split(":").map(Number);
+    return h * 60 + m;
+  };
+
+  const getSpecialMessage = (hora: string) => {
+    const minutos = toMinutes(hora);
+    const isLunchTime = minutos >= 12 * 60 + 31 && minutos <= 12 * 60 + 59;
+    const isNoClassTime = minutos >= 22 * 60 + 36 || minutos <= 6 * 60 + 59;
+
+    if (isLunchTime) {
+      return "Hora do almoco! Va almocar e volte depois.";
+    }
+
+    if (isNoClassTime) {
+      return "Nesse horario nao tem aula. Vai dormir!";
+    }
+
+    return "";
+  };
 
   const handleSearch = () => {
     if (!bloco) return;
 
     setLoading(true);
     setRooms(null);
+    setSpecialMessage("");
 
     setTimeout(() => {
+      const aviso = getSpecialMessage(time);
+      if (aviso) {
+        setSpecialMessage(aviso);
+        setRooms([]);
+        setLoading(false);
+        return;
+      }
+
       const dia = getDiaAtual();
       const horario = horaParaHorario(time);
 
@@ -107,7 +138,7 @@ function App() {
 
           {rooms !== null && !loading && rooms.length === 0 && (
             <div className={styles.noResults}>
-              Nenhuma sala disponível neste horário.
+              {specialMessage || "Nenhuma sala disponível neste horário."}
             </div>
           )}
 

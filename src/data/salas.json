@@ -29,11 +29,31 @@
       },
       {
         "dia": "seg",
+        "horario": "T5"
+      },
+      {
+        "dia": "seg",
+        "horario": "T6"
+      },
+      {
+        "dia": "seg",
+        "horario": "N1"
+      },
+      {
+        "dia": "seg",
         "horario": "N2"
       },
       {
         "dia": "seg",
         "horario": "N3"
+      },
+      {
+        "dia": "seg",
+        "horario": "N4"
+      },
+      {
+        "dia": "seg",
+        "horario": "N5"
       },
       {
         "dia": "ter",
@@ -61,7 +81,27 @@
       },
       {
         "dia": "ter",
+        "horario": "T2"
+      },
+      {
+        "dia": "ter",
+        "horario": "T3"
+      },
+      {
+        "dia": "ter",
         "horario": "T4"
+      },
+      {
+        "dia": "ter",
+        "horario": "T5"
+      },
+      {
+        "dia": "ter",
+        "horario": "T6"
+      },
+      {
+        "dia": "ter",
+        "horario": "N1"
       },
       {
         "dia": "ter",
@@ -105,7 +145,11 @@
       },
       {
         "dia": "qua",
-        "horario": "N1"
+        "horario": "T5"
+      },
+      {
+        "dia": "qua",
+        "horario": "T6"
       },
       {
         "dia": "qua",
@@ -165,10 +209,6 @@
       },
       {
         "dia": "qui",
-        "horario": "N1"
-      },
-      {
-        "dia": "qui",
         "horario": "N2"
       },
       {
@@ -214,14 +254,6 @@
       {
         "dia": "sex",
         "horario": "N3"
-      },
-      {
-        "dia": "sex",
-        "horario": "N4"
-      },
-      {
-        "dia": "sex",
-        "horario": "N5"
       },
       {
         "dia": "sab",
@@ -255,6 +287,14 @@
       },
       {
         "dia": "seg",
+        "horario": "M5"
+      },
+      {
+        "dia": "seg",
+        "horario": "M6"
+      },
+      {
+        "dia": "seg",
         "horario": "T2"
       },
       {
@@ -271,6 +311,10 @@
       },
       {
         "dia": "seg",
+        "horario": "N1"
+      },
+      {
+        "dia": "seg",
         "horario": "N2"
       },
       {
@@ -323,10 +367,6 @@
       },
       {
         "dia": "ter",
-        "horario": "N1"
-      },
-      {
-        "dia": "ter",
         "horario": "N2"
       },
       {
@@ -364,10 +404,6 @@
       {
         "dia": "qua",
         "horario": "M6"
-      },
-      {
-        "dia": "qua",
-        "horario": "N1"
       },
       {
         "dia": "qua",
@@ -460,14 +496,6 @@
       {
         "dia": "sex",
         "horario": "N3"
-      },
-      {
-        "dia": "sex",
-        "horario": "N4"
-      },
-      {
-        "dia": "sex",
-        "horario": "N5"
       }
     ]
   },
@@ -477,6 +505,14 @@
     "ocupacoes": [
       {
         "dia": "seg",
+        "horario": "M1"
+      },
+      {
+        "dia": "seg",
+        "horario": "M2"
+      },
+      {
+        "dia": "seg",
         "horario": "M3"
       },
       {
@@ -489,11 +525,27 @@
       },
       {
         "dia": "seg",
-        "horario": "T2"
+        "horario": "T5"
       },
       {
         "dia": "seg",
-        "horario": "T3"
+        "horario": "T6"
+      },
+      {
+        "dia": "seg",
+        "horario": "N1"
+      },
+      {
+        "dia": "seg",
+        "horario": "N2"
+      },
+      {
+        "dia": "seg",
+        "horario": "N3"
+      },
+      {
+        "dia": "seg",
+        "horario": "N4"
       },
       {
         "dia": "ter",
@@ -577,6 +629,18 @@
       },
       {
         "dia": "qua",
+        "horario": "T5"
+      },
+      {
+        "dia": "qua",
+        "horario": "T6"
+      },
+      {
+        "dia": "qua",
+        "horario": "N1"
+      },
+      {
+        "dia": "qua",
         "horario": "N2"
       },
       {
@@ -646,6 +710,26 @@
       {
         "dia": "sex",
         "horario": "M6"
+      },
+      {
+        "dia": "sex",
+        "horario": "N1"
+      },
+      {
+        "dia": "sex",
+        "horario": "N2"
+      },
+      {
+        "dia": "sex",
+        "horario": "N3"
+      },
+      {
+        "dia": "sex",
+        "horario": "N4"
+      },
+      {
+        "dia": "sex",
+        "horario": "N5"
       }
     ]
   },
@@ -675,31 +759,19 @@
       },
       {
         "dia": "seg",
-        "horario": "T1"
-      },
-      {
-        "dia": "seg",
-        "horario": "T2"
-      },
-      {
-        "dia": "seg",
-        "horario": "T3"
-      },
-      {
-        "dia": "seg",
-        "horario": "T4"
-      },
-      {
-        "dia": "seg",
-        "horario": "T5"
-      },
-      {
-        "dia": "seg",
         "horario": "N2"
       },
       {
         "dia": "seg",
         "horario": "N3"
+      },
+      {
+        "dia": "seg",
+        "horario": "N4"
+      },
+      {
+        "dia": "seg",
+        "horario": "N5"
       },
       {
         "dia": "ter",
@@ -724,10 +796,6 @@
       {
         "dia": "ter",
         "horario": "M6"
-      },
-      {
-        "dia": "ter",
-        "horario": "T1"
       },
       {
         "dia": "ter",
@@ -791,6 +859,22 @@
       },
       {
         "dia": "qua",
+        "horario": "T3"
+      },
+      {
+        "dia": "qua",
+        "horario": "T4"
+      },
+      {
+        "dia": "qua",
+        "horario": "T5"
+      },
+      {
+        "dia": "qua",
+        "horario": "T6"
+      },
+      {
+        "dia": "qua",
         "horario": "N1"
       },
       {
@@ -835,10 +919,6 @@
       },
       {
         "dia": "qui",
-        "horario": "T1"
-      },
-      {
-        "dia": "qui",
         "horario": "T2"
       },
       {
@@ -855,11 +935,7 @@
       },
       {
         "dia": "qui",
-        "horario": "N4"
-      },
-      {
-        "dia": "qui",
-        "horario": "N5"
+        "horario": "N1"
       },
       {
         "dia": "sex",
@@ -953,6 +1029,14 @@
       },
       {
         "dia": "ter",
+        "horario": "M3"
+      },
+      {
+        "dia": "ter",
+        "horario": "M4"
+      },
+      {
+        "dia": "ter",
         "horario": "M5"
       },
       {
@@ -961,11 +1045,11 @@
       },
       {
         "dia": "ter",
-        "horario": "T5"
+        "horario": "T3"
       },
       {
         "dia": "ter",
-        "horario": "T6"
+        "horario": "T4"
       },
       {
         "dia": "ter",
@@ -1009,14 +1093,6 @@
       },
       {
         "dia": "qua",
-        "horario": "T5"
-      },
-      {
-        "dia": "qua",
-        "horario": "T6"
-      },
-      {
-        "dia": "qua",
         "horario": "N1"
       },
       {
@@ -1026,6 +1102,14 @@
       {
         "dia": "qua",
         "horario": "N3"
+      },
+      {
+        "dia": "qua",
+        "horario": "N4"
+      },
+      {
+        "dia": "qua",
+        "horario": "N5"
       },
       {
         "dia": "qui",
@@ -1069,10 +1153,6 @@
       },
       {
         "dia": "qui",
-        "horario": "N1"
-      },
-      {
-        "dia": "qui",
         "horario": "N2"
       },
       {
@@ -1113,11 +1193,11 @@
       },
       {
         "dia": "sex",
-        "horario": "N2"
+        "horario": "N4"
       },
       {
         "dia": "sex",
-        "horario": "N3"
+        "horario": "N5"
       }
     ]
   },
@@ -1159,11 +1239,7 @@
       },
       {
         "dia": "seg",
-        "horario": "N4"
-      },
-      {
-        "dia": "seg",
-        "horario": "N5"
+        "horario": "N3"
       },
       {
         "dia": "ter",
@@ -1203,11 +1279,23 @@
       },
       {
         "dia": "ter",
+        "horario": "N1"
+      },
+      {
+        "dia": "ter",
         "horario": "N2"
       },
       {
         "dia": "ter",
         "horario": "N3"
+      },
+      {
+        "dia": "ter",
+        "horario": "N4"
+      },
+      {
+        "dia": "ter",
+        "horario": "N5"
       },
       {
         "dia": "qua",
@@ -1259,6 +1347,10 @@
       },
       {
         "dia": "qui",
+        "horario": "N1"
+      },
+      {
+        "dia": "qui",
         "horario": "N2"
       },
       {
@@ -1296,6 +1388,14 @@
       {
         "dia": "sex",
         "horario": "M6"
+      },
+      {
+        "dia": "sex",
+        "horario": "N2"
+      },
+      {
+        "dia": "sex",
+        "horario": "N3"
       }
     ]
   },
@@ -1328,6 +1428,18 @@
         "horario": "M6"
       },
       {
+        "dia": "seg",
+        "horario": "N1"
+      },
+      {
+        "dia": "seg",
+        "horario": "N2"
+      },
+      {
+        "dia": "seg",
+        "horario": "N3"
+      },
+      {
         "dia": "ter",
         "horario": "M1"
       },
@@ -1364,40 +1476,40 @@
         "horario": "T5"
       },
       {
-        "dia": "qua",
-        "horario": "M1"
-      },
-      {
-        "dia": "qua",
-        "horario": "M2"
-      },
-      {
-        "dia": "qua",
-        "horario": "M3"
-      },
-      {
-        "dia": "qua",
-        "horario": "M4"
-      },
-      {
-        "dia": "qua",
-        "horario": "M5"
-      },
-      {
-        "dia": "qua",
-        "horario": "M6"
-      },
-      {
-        "dia": "qua",
+        "dia": "ter",
         "horario": "N1"
       },
       {
-        "dia": "qua",
+        "dia": "ter",
         "horario": "N2"
       },
       {
-        "dia": "qua",
+        "dia": "ter",
         "horario": "N3"
+      },
+      {
+        "dia": "qua",
+        "horario": "M1"
+      },
+      {
+        "dia": "qua",
+        "horario": "M2"
+      },
+      {
+        "dia": "qua",
+        "horario": "M3"
+      },
+      {
+        "dia": "qua",
+        "horario": "M4"
+      },
+      {
+        "dia": "qua",
+        "horario": "M5"
+      },
+      {
+        "dia": "qua",
+        "horario": "M6"
       },
       {
         "dia": "qui",
@@ -1422,14 +1534,6 @@
       {
         "dia": "qui",
         "horario": "M6"
-      },
-      {
-        "dia": "qui",
-        "horario": "N2"
-      },
-      {
-        "dia": "qui",
-        "horario": "N3"
       },
       {
         "dia": "sex",
@@ -1463,19 +1567,19 @@
     "ocupacoes": [
       {
         "dia": "seg",
-        "horario": "M1"
-      },
-      {
-        "dia": "seg",
-        "horario": "M2"
-      },
-      {
-        "dia": "seg",
         "horario": "M3"
       },
       {
         "dia": "seg",
         "horario": "M4"
+      },
+      {
+        "dia": "seg",
+        "horario": "M5"
+      },
+      {
+        "dia": "seg",
+        "horario": "M6"
       },
       {
         "dia": "seg",
@@ -1487,7 +1591,11 @@
       },
       {
         "dia": "seg",
-        "horario": "N1"
+        "horario": "T5"
+      },
+      {
+        "dia": "seg",
+        "horario": "T6"
       },
       {
         "dia": "seg",
@@ -1496,14 +1604,6 @@
       {
         "dia": "seg",
         "horario": "N3"
-      },
-      {
-        "dia": "ter",
-        "horario": "M3"
-      },
-      {
-        "dia": "ter",
-        "horario": "M4"
       },
       {
         "dia": "ter",
@@ -1523,47 +1623,55 @@
       },
       {
         "dia": "ter",
-        "horario": "N1"
+        "horario": "T3"
       },
       {
         "dia": "ter",
-        "horario": "N4"
+        "horario": "T4"
       },
       {
         "dia": "ter",
-        "horario": "N5"
-      },
-      {
-        "dia": "qua",
-        "horario": "M1"
-      },
-      {
-        "dia": "qua",
-        "horario": "M2"
-      },
-      {
-        "dia": "qua",
-        "horario": "M3"
-      },
-      {
-        "dia": "qua",
-        "horario": "M4"
-      },
-      {
-        "dia": "qua",
         "horario": "T5"
       },
       {
-        "dia": "qua",
-        "horario": "T6"
-      },
-      {
-        "dia": "qua",
+        "dia": "ter",
         "horario": "N2"
       },
       {
-        "dia": "qua",
+        "dia": "ter",
         "horario": "N3"
+      },
+      {
+        "dia": "ter",
+        "horario": "N4"
+      },
+      {
+        "dia": "ter",
+        "horario": "N5"
+      },
+      {
+        "dia": "qua",
+        "horario": "M1"
+      },
+      {
+        "dia": "qua",
+        "horario": "M2"
+      },
+      {
+        "dia": "qua",
+        "horario": "M3"
+      },
+      {
+        "dia": "qua",
+        "horario": "M4"
+      },
+      {
+        "dia": "qua",
+        "horario": "M5"
+      },
+      {
+        "dia": "qua",
+        "horario": "M6"
       },
       {
         "dia": "qua",
@@ -1591,11 +1699,35 @@
       },
       {
         "dia": "qui",
-        "horario": "N4"
+        "horario": "T1"
       },
       {
         "dia": "qui",
-        "horario": "N5"
+        "horario": "T2"
+      },
+      {
+        "dia": "qui",
+        "horario": "T3"
+      },
+      {
+        "dia": "qui",
+        "horario": "T4"
+      },
+      {
+        "dia": "qui",
+        "horario": "T5"
+      },
+      {
+        "dia": "qui",
+        "horario": "N1"
+      },
+      {
+        "dia": "qui",
+        "horario": "N2"
+      },
+      {
+        "dia": "qui",
+        "horario": "N3"
       },
       {
         "dia": "sex",
@@ -1615,31 +1747,7 @@
       },
       {
         "dia": "sex",
-        "horario": "M5"
-      },
-      {
-        "dia": "sex",
-        "horario": "M6"
-      },
-      {
-        "dia": "sex",
         "horario": "N1"
-      },
-      {
-        "dia": "sex",
-        "horario": "N2"
-      },
-      {
-        "dia": "sex",
-        "horario": "N3"
-      },
-      {
-        "dia": "sex",
-        "horario": "N4"
-      },
-      {
-        "dia": "sex",
-        "horario": "N5"
       }
     ]
   },
@@ -1656,6 +1764,34 @@
         "horario": "M2"
       },
       {
+        "dia": "seg",
+        "horario": "T1"
+      },
+      {
+        "dia": "seg",
+        "horario": "T2"
+      },
+      {
+        "dia": "seg",
+        "horario": "T3"
+      },
+      {
+        "dia": "seg",
+        "horario": "T4"
+      },
+      {
+        "dia": "seg",
+        "horario": "T5"
+      },
+      {
+        "dia": "seg",
+        "horario": "N2"
+      },
+      {
+        "dia": "seg",
+        "horario": "N3"
+      },
+      {
         "dia": "ter",
         "horario": "M1"
       },
@@ -1698,6 +1834,10 @@
       {
         "dia": "ter",
         "horario": "N3"
+      },
+      {
+        "dia": "qua",
+        "horario": "N1"
       },
       {
         "dia": "qua",
@@ -1749,6 +1889,10 @@
       },
       {
         "dia": "qui",
+        "horario": "N1"
+      },
+      {
+        "dia": "qui",
         "horario": "N2"
       },
       {
@@ -1789,19 +1933,7 @@
       },
       {
         "dia": "sex",
-        "horario": "N2"
-      },
-      {
-        "dia": "sex",
-        "horario": "N3"
-      },
-      {
-        "dia": "sex",
-        "horario": "N4"
-      },
-      {
-        "dia": "sex",
-        "horario": "N5"
+        "horario": "N1"
       }
     ]
   },
@@ -1811,35 +1943,19 @@
     "ocupacoes": [
       {
         "dia": "seg",
-        "horario": "M1"
-      },
-      {
-        "dia": "seg",
-        "horario": "M2"
-      },
-      {
-        "dia": "seg",
-        "horario": "M3"
-      },
-      {
-        "dia": "seg",
-        "horario": "M4"
-      },
-      {
-        "dia": "seg",
-        "horario": "M5"
-      },
-      {
-        "dia": "seg",
-        "horario": "M6"
-      },
-      {
-        "dia": "seg",
         "horario": "T1"
       },
       {
         "dia": "seg",
         "horario": "T2"
+      },
+      {
+        "dia": "seg",
+        "horario": "T3"
+      },
+      {
+        "dia": "seg",
+        "horario": "T4"
       },
       {
         "dia": "seg",
@@ -1851,27 +1967,15 @@
       },
       {
         "dia": "seg",
-        "horario": "N4"
+        "horario": "N1"
       },
       {
         "dia": "seg",
-        "horario": "N5"
+        "horario": "N2"
       },
       {
-        "dia": "ter",
-        "horario": "M1"
-      },
-      {
-        "dia": "ter",
-        "horario": "M2"
-      },
-      {
-        "dia": "ter",
-        "horario": "M3"
-      },
-      {
-        "dia": "ter",
-        "horario": "M4"
+        "dia": "seg",
+        "horario": "N3"
       },
       {
         "dia": "ter",
@@ -1895,7 +1999,15 @@
       },
       {
         "dia": "ter",
-        "horario": "T6"
+        "horario": "N1"
+      },
+      {
+        "dia": "ter",
+        "horario": "N2"
+      },
+      {
+        "dia": "ter",
+        "horario": "N3"
       },
       {
         "dia": "ter",
@@ -1904,6 +2016,14 @@
       {
         "dia": "ter",
         "horario": "N5"
+      },
+      {
+        "dia": "qua",
+        "horario": "M1"
+      },
+      {
+        "dia": "qua",
+        "horario": "M2"
       },
       {
         "dia": "qua",
@@ -1923,23 +2043,19 @@
       },
       {
         "dia": "qua",
+        "horario": "T3"
+      },
+      {
+        "dia": "qua",
+        "horario": "T4"
+      },
+      {
+        "dia": "qua",
         "horario": "T5"
       },
       {
         "dia": "qua",
         "horario": "T6"
-      },
-      {
-        "dia": "qua",
-        "horario": "N1"
-      },
-      {
-        "dia": "qua",
-        "horario": "N2"
-      },
-      {
-        "dia": "qua",
-        "horario": "N3"
       },
       {
         "dia": "qua",
@@ -1959,22 +2075,6 @@
       },
       {
         "dia": "qui",
-        "horario": "M3"
-      },
-      {
-        "dia": "qui",
-        "horario": "M4"
-      },
-      {
-        "dia": "qui",
-        "horario": "T1"
-      },
-      {
-        "dia": "qui",
-        "horario": "T2"
-      },
-      {
-        "dia": "qui",
         "horario": "T3"
       },
       {
@@ -1987,10 +2087,6 @@
       },
       {
         "dia": "qui",
-        "horario": "T6"
-      },
-      {
-        "dia": "qui",
         "horario": "N1"
       },
       {
@@ -1999,30 +2095,6 @@
       },
       {
         "dia": "qui",
-        "horario": "N3"
-      },
-      {
-        "dia": "qui",
-        "horario": "N4"
-      },
-      {
-        "dia": "qui",
-        "horario": "N5"
-      },
-      {
-        "dia": "sex",
-        "horario": "M5"
-      },
-      {
-        "dia": "sex",
-        "horario": "M6"
-      },
-      {
-        "dia": "sex",
-        "horario": "N2"
-      },
-      {
-        "dia": "sex",
         "horario": "N3"
       }
     ]
@@ -2057,105 +2129,125 @@
       },
       {
         "dia": "seg",
-        "horario": "N4"
+        "horario": "T1"
       },
       {
         "dia": "seg",
-        "horario": "N5"
-      },
-      {
-        "dia": "ter",
-        "horario": "M1"
-      },
-      {
-        "dia": "ter",
-        "horario": "M2"
-      },
-      {
-        "dia": "ter",
-        "horario": "M3"
-      },
-      {
-        "dia": "ter",
-        "horario": "M4"
-      },
-      {
-        "dia": "ter",
-        "horario": "M5"
-      },
-      {
-        "dia": "ter",
-        "horario": "M6"
-      },
-      {
-        "dia": "ter",
-        "horario": "T1"
-      },
-      {
-        "dia": "ter",
         "horario": "T2"
       },
       {
-        "dia": "ter",
+        "dia": "seg",
         "horario": "T3"
       },
       {
-        "dia": "ter",
+        "dia": "seg",
         "horario": "T4"
       },
       {
-        "dia": "ter",
-        "horario": "N2"
-      },
-      {
-        "dia": "ter",
-        "horario": "N3"
-      },
-      {
-        "dia": "ter",
-        "horario": "N4"
-      },
-      {
-        "dia": "ter",
-        "horario": "N5"
-      },
-      {
-        "dia": "qua",
-        "horario": "M3"
-      },
-      {
-        "dia": "qua",
-        "horario": "M4"
-      },
-      {
-        "dia": "qua",
-        "horario": "M5"
-      },
-      {
-        "dia": "qua",
-        "horario": "M6"
-      },
-      {
-        "dia": "qua",
-        "horario": "T1"
-      },
-      {
-        "dia": "qua",
-        "horario": "T2"
-      },
-      {
-        "dia": "qua",
-        "horario": "T3"
-      },
-      {
-        "dia": "qua",
-        "horario": "T4"
-      },
-      {
-        "dia": "qua",
+        "dia": "seg",
         "horario": "N1"
       },
       {
+        "dia": "seg",
+        "horario": "N2"
+      },
+      {
+        "dia": "seg",
+        "horario": "N3"
+      },
+      {
+        "dia": "ter",
+        "horario": "M1"
+      },
+      {
+        "dia": "ter",
+        "horario": "M2"
+      },
+      {
+        "dia": "ter",
+        "horario": "M3"
+      },
+      {
+        "dia": "ter",
+        "horario": "M4"
+      },
+      {
+        "dia": "ter",
+        "horario": "M5"
+      },
+      {
+        "dia": "ter",
+        "horario": "M6"
+      },
+      {
+        "dia": "ter",
+        "horario": "T1"
+      },
+      {
+        "dia": "ter",
+        "horario": "T2"
+      },
+      {
+        "dia": "ter",
+        "horario": "T3"
+      },
+      {
+        "dia": "ter",
+        "horario": "T4"
+      },
+      {
+        "dia": "ter",
+        "horario": "T5"
+      },
+      {
+        "dia": "ter",
+        "horario": "T6"
+      },
+      {
+        "dia": "ter",
+        "horario": "N1"
+      },
+      {
+        "dia": "ter",
+        "horario": "N2"
+      },
+      {
+        "dia": "ter",
+        "horario": "N3"
+      },
+      {
+        "dia": "ter",
+        "horario": "N4"
+      },
+      {
+        "dia": "ter",
+        "horario": "N5"
+      },
+      {
+        "dia": "qua",
+        "horario": "M5"
+      },
+      {
+        "dia": "qua",
+        "horario": "M6"
+      },
+      {
+        "dia": "qua",
+        "horario": "T1"
+      },
+      {
+        "dia": "qua",
+        "horario": "T2"
+      },
+      {
+        "dia": "qua",
+        "horario": "T3"
+      },
+      {
+        "dia": "qua",
+        "horario": "T4"
+      },
+      {
         "dia": "qua",
         "horario": "N2"
       },
@@ -2194,6 +2286,14 @@
       {
         "dia": "qui",
         "horario": "T2"
+      },
+      {
+        "dia": "qui",
+        "horario": "T3"
+      },
+      {
+        "dia": "qui",
+        "horario": "T4"
       },
       {
         "dia": "qui",
@@ -2205,18 +2305,6 @@
       },
       {
         "dia": "qui",
-        "horario": "N1"
-      },
-      {
-        "dia": "qui",
-        "horario": "N2"
-      },
-      {
-        "dia": "qui",
-        "horario": "N3"
-      },
-      {
-        "dia": "qui",
         "horario": "N4"
       },
       {
@@ -2225,43 +2313,11 @@
       },
       {
         "dia": "sex",
-        "horario": "M1"
+        "horario": "N2"
       },
       {
         "dia": "sex",
-        "horario": "M2"
-      },
-      {
-        "dia": "sex",
-        "horario": "M3"
-      },
-      {
-        "dia": "sex",
-        "horario": "M4"
-      },
-      {
-        "dia": "sex",
-        "horario": "M5"
-      },
-      {
-        "dia": "sex",
-        "horario": "M6"
-      },
-      {
-        "dia": "sex",
-        "horario": "T3"
-      },
-      {
-        "dia": "sex",
-        "horario": "T4"
-      },
-      {
-        "dia": "sex",
-        "horario": "T5"
-      },
-      {
-        "dia": "sex",
-        "horario": "T6"
+        "horario": "N3"
       },
       {
         "dia": "sex",
@@ -2279,14 +2335,6 @@
     "ocupacoes": [
       {
         "dia": "seg",
-        "horario": "M1"
-      },
-      {
-        "dia": "seg",
-        "horario": "M2"
-      },
-      {
-        "dia": "seg",
         "horario": "M3"
       },
       {
@@ -2308,10 +2356,6 @@
       {
         "dia": "seg",
         "horario": "T3"
-      },
-      {
-        "dia": "seg",
-        "horario": "N1"
       },
       {
         "dia": "seg",
@@ -2322,14 +2366,6 @@
         "horario": "N3"
       },
       {
-        "dia": "seg",
-        "horario": "N4"
-      },
-      {
-        "dia": "seg",
-        "horario": "N5"
-      },
-      {
         "dia": "ter",
         "horario": "M1"
       },
@@ -2363,55 +2399,51 @@
       },
       {
         "dia": "ter",
+        "horario": "N2"
+      },
+      {
+        "dia": "ter",
+        "horario": "N3"
+      },
+      {
+        "dia": "qua",
+        "horario": "M1"
+      },
+      {
+        "dia": "qua",
+        "horario": "M2"
+      },
+      {
+        "dia": "qua",
+        "horario": "M3"
+      },
+      {
+        "dia": "qua",
+        "horario": "M4"
+      },
+      {
+        "dia": "qua",
+        "horario": "M5"
+      },
+      {
+        "dia": "qua",
+        "horario": "M6"
+      },
+      {
+        "dia": "qua",
+        "horario": "T2"
+      },
+      {
+        "dia": "qua",
+        "horario": "T3"
+      },
+      {
+        "dia": "qua",
         "horario": "T4"
       },
       {
-        "dia": "ter",
+        "dia": "qua",
         "horario": "T5"
-      },
-      {
-        "dia": "ter",
-        "horario": "T6"
-      },
-      {
-        "dia": "ter",
-        "horario": "N2"
-      },
-      {
-        "dia": "ter",
-        "horario": "N3"
-      },
-      {
-        "dia": "qua",
-        "horario": "M1"
-      },
-      {
-        "dia": "qua",
-        "horario": "M2"
-      },
-      {
-        "dia": "qua",
-        "horario": "M3"
-      },
-      {
-        "dia": "qua",
-        "horario": "M4"
-      },
-      {
-        "dia": "qua",
-        "horario": "M5"
-      },
-      {
-        "dia": "qua",
-        "horario": "M6"
-      },
-      {
-        "dia": "qua",
-        "horario": "N2"
-      },
-      {
-        "dia": "qua",
-        "horario": "N3"
       },
       {
         "dia": "qua",
@@ -2420,6 +2452,14 @@
       {
         "dia": "qua",
         "horario": "N5"
+      },
+      {
+        "dia": "qui",
+        "horario": "M1"
+      },
+      {
+        "dia": "qui",
+        "horario": "M2"
       },
       {
         "dia": "qui",
@@ -2454,26 +2494,6 @@
         "horario": "T5"
       },
       {
-        "dia": "qui",
-        "horario": "N1"
-      },
-      {
-        "dia": "qui",
-        "horario": "N2"
-      },
-      {
-        "dia": "qui",
-        "horario": "N3"
-      },
-      {
-        "dia": "qui",
-        "horario": "N4"
-      },
-      {
-        "dia": "qui",
-        "horario": "N5"
-      },
-      {
         "dia": "sex",
         "horario": "M1"
       },
@@ -2491,19 +2511,27 @@
       },
       {
         "dia": "sex",
-        "horario": "N2"
+        "horario": "M5"
       },
       {
         "dia": "sex",
-        "horario": "N3"
+        "horario": "M6"
       },
       {
         "dia": "sex",
-        "horario": "N4"
+        "horario": "T2"
       },
       {
         "dia": "sex",
-        "horario": "N5"
+        "horario": "T3"
+      },
+      {
+        "dia": "sex",
+        "horario": "T4"
+      },
+      {
+        "dia": "sex",
+        "horario": "T5"
       }
     ]
   },
@@ -2529,11 +2557,11 @@
       },
       {
         "dia": "seg",
-        "horario": "T4"
+        "horario": "M5"
       },
       {
         "dia": "seg",
-        "horario": "T5"
+        "horario": "M6"
       },
       {
         "dia": "ter",
@@ -2542,14 +2570,6 @@
       {
         "dia": "ter",
         "horario": "M2"
-      },
-      {
-        "dia": "ter",
-        "horario": "M3"
-      },
-      {
-        "dia": "ter",
-        "horario": "M4"
       },
       {
         "dia": "ter",
@@ -2568,76 +2588,100 @@
         "horario": "T3"
       },
       {
-        "dia": "qua",
-        "horario": "M1"
-      },
-      {
-        "dia": "qua",
-        "horario": "M2"
-      },
-      {
-        "dia": "qua",
-        "horario": "M3"
-      },
-      {
-        "dia": "qua",
-        "horario": "M4"
-      },
-      {
-        "dia": "qua",
-        "horario": "M5"
-      },
-      {
-        "dia": "qua",
-        "horario": "M6"
-      },
-      {
-        "dia": "qua",
-        "horario": "N2"
-      },
-      {
-        "dia": "qua",
-        "horario": "N3"
-      },
-      {
-        "dia": "qui",
-        "horario": "M1"
-      },
-      {
-        "dia": "qui",
-        "horario": "M2"
-      },
-      {
-        "dia": "qui",
-        "horario": "M3"
-      },
-      {
-        "dia": "qui",
-        "horario": "M4"
-      },
-      {
-        "dia": "qui",
-        "horario": "M5"
-      },
-      {
-        "dia": "qui",
-        "horario": "M6"
-      },
-      {
-        "dia": "qui",
-        "horario": "T2"
-      },
-      {
-        "dia": "qui",
-        "horario": "T3"
-      },
-      {
-        "dia": "qui",
+        "dia": "ter",
         "horario": "T4"
       },
       {
-        "dia": "qui",
+        "dia": "ter",
         "horario": "T5"
+      },
+      {
+        "dia": "qua",
+        "horario": "M1"
+      },
+      {
+        "dia": "qua",
+        "horario": "M2"
+      },
+      {
+        "dia": "qua",
+        "horario": "M3"
+      },
+      {
+        "dia": "qua",
+        "horario": "M4"
+      },
+      {
+        "dia": "qua",
+        "horario": "M5"
+      },
+      {
+        "dia": "qua",
+        "horario": "M6"
+      },
+      {
+        "dia": "qua",
+        "horario": "T2"
+      },
+      {
+        "dia": "qua",
+        "horario": "T3"
+      },
+      {
+        "dia": "qua",
+        "horario": "T4"
+      },
+      {
+        "dia": "qua",
+        "horario": "T5"
+      },
+      {
+        "dia": "qui",
+        "horario": "M1"
+      },
+      {
+        "dia": "qui",
+        "horario": "M2"
+      },
+      {
+        "dia": "qui",
+        "horario": "M3"
+      },
+      {
+        "dia": "qui",
+        "horario": "M4"
+      },
+      {
+        "dia": "qui",
+        "horario": "M5"
+      },
+      {
+        "dia": "qui",
+        "horario": "M6"
+      },
+      {
+        "dia": "sex",
+        "horario": "M1"
+      },
+      {
+        "dia": "sex",
+        "horario": "M2"
+      },
+      {
+        "dia": "sex",
+        "horario": "M3"
+      },
+      {
+        "dia": "sex",
+        "horario": "M4"
+      },
+      {
+        "dia": "sex",
+        "horario": "M5"
+      },
+      {
+        "dia": "sex",
+        "horario": "M6"
       }
     ]
   },
